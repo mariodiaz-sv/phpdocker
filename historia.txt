@@ -1,0 +1,5 @@
+esta es una prueba par usar git
+
+git es un software para el control de versiones
+
+muy interesante de aprender
